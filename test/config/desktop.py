@@ -6,6 +6,6 @@ def get_data():
 			"color": "#589494",
 			"icon": "fa fa-warehouse",
 			"type": "module",
-			"label": _("test")
+			"label": _("kappa")
 		}
 	}
