@@ -5,7 +5,7 @@ app_description = "test"
 app_icon = "fa fa warehouse"
 app_color = "#589494"
 app_email = "info@frappe.io"
-app_url = "https://frappe.io/apps/library_management"
+app_url = "https://github.com/murex9/test"
 app_version = "0.0.1"
 
 role_home_page = {
@@ -63,9 +63,9 @@ role_home_page = {
 # ---------------
 
 #scheduler_events = {
-	"daily": [
-		"library_management.tasks.daily"
-	],
+#	"daily": [
+#		"library_management.tasks.daily"
+#	],
 #}
 
 # scheduler_events = {
