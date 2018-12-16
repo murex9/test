@@ -4,7 +4,7 @@ import os
 version = '0.0.1'
 
 setup(
-    name='test',
+    name='kappa',
     version=version,
     description='test app',
     author='DL',
